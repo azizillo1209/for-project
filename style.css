@@ -1,0 +1,19 @@
+
+
+div{
+    width: 400px;
+    height: 400px;
+    background-color: tomato;
+    transition: all 2 s ease;
+}
+
+div p{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+
+div:hover{
+    border-radius: 50%;
+    background-color: blueviolet;
+}
